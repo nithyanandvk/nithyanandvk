@@ -2,7 +2,7 @@
 
 Aspiring Full Stack Developer | MERN Stack | Java Enthusiast | AI & Web Development  
 📍 Tirupati, India  
-🌐 [Portfolio](https://nithyanandvk.netlify.app) | ✉️ nithyanandvk2005@gmail.com | 📞 +91-9347259078  
+🌐 [Portfolio](https://nithyanandvk.netlify.app) | ✉️ nithyanandvk2005@gmail.com |
 [LinkedIn](https://www.linkedin.com/in/nithyanandvk/) | [GitHub](https://github.com/nithyanandvk) | [LeetCode](https://leetcode.com/u/nithyanandvk2005/)
 
 ---
