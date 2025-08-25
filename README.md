@@ -1,96 +1,85 @@
-# 👨‍💻 Nithyanand V K
+# NITHYANAND V K
 
-**Aspiring Full Stack Developer** | MERN Stack | Java Enthusiast | AI & Web Innovator  
-📍 Tirupati, India  
-🌐 [Portfolio](https://nithyanandvk.netlify.app) | ✉️ [nithyanandvk2005@gmail.com](mailto:nithyanandvk2005@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/nithyanandvk/) | [GitHub](https://github.com/nithyanandvk) | [LeetCode](https://leetcode.com/u/nithyanandvk2005/)
+**MERN Stack Developer** with expertise in building and deploying scalable applications.  
+Solved **490+ LeetCode problems** using Java, Data Structures & Algorithms, and SQL.  
+Developed **5+ full-stack applications** used by 1000+ users.  
+Achieved **3rd Prize – National AI Hackathon 2025** and **Finalist – SASTRA Daksh 2025**.  
+Mentored **500+ students** in DSA, DBMS, and Web, and organized tech events boosting student engagement.
+
+**Portfolio / Profiles:**  
+- Website: [nithyanandvk.netlify.app](https://nithyanandvk.netlify.app)  
+- GitHub: [nithyanandvk](https://github.com/nithyanandvk)  
+- Phone: +91-9347259078  
+- LinkedIn: [nithyanandvk2005](https://www.linkedin.com/in/nithyanandvk2005/)  
+- Email: nithyanandvk2005@gmail.com  
 
 ---
 
-## 🛠️ Technical Skills
-
-- **Frontend:** HTML5, CSS3, JavaScript, React.js, Tailwind CSS, Bootstrap  
-- **Backend & Databases:** Node.js, Express.js, RESTful APIs, MERN Stack, MongoDB, MySQL  
-- **Programming:** Java, Data Structures & Algorithms in Java, OOPS, Problem Solving  
-- **Tools & Platforms:** Git, GitHub, VS Code, Render, Netlify, Mongosh, npm, AI tools
+## TECHNICAL SKILLS
+- **Programming & DSA:** Java, Data Structures & Algorithms, OOPS  
+- **Frontend:** HTML5, CSS3, JavaScript, React.js (Learning), Tailwind CSS, Bootstrap  
+- **Backend & Databases:** Node.js, Express.js, RESTful APIs, MVC Architecture, MongoDB, MySQL  
+- **Tools & Platforms:** Git, GitHub, Postman, VS Code, Render, Netlify, npm, Mongosh  
 
 ---
 
-## 🎓 Education
+## EDUCATION
 
 **Mohan Babu University**  
-_B.Tech in Computer Science and Engineering_ | **CGPA: 9.81**  
-*Oct 2022 – May 2026 · Tirupati, India*
+*Oct 2022 – May 2026*  
+B.Tech in Computer Science and Engineering – CGPA: 9.77  
 
-**Sai Sri Chaitanya Junior College**  
-_Intermediate (MPC) – Town Topper in 1st Year_ | **97.1%**  
-*Jan 2021 – May 2022 · Palamaner, India*
-
-**Ravindra Bharathi School**  
-_Secondary School Certificate (SSC)_ | **98.8%**  
-*Jun 2019 – Mar 2020 · Palamaner, India*
+**Sai Sri Chaitanya Junior College, Tirupati, India**  
+*Jan 2021 – May 2022*  
+Intermediate (MPC) – Town Topper in 1st Year – Percentage: 97.1%  
 
 ---
 
-## 💼 Experience
+## WORK EXPERIENCE
 
-**Indian Society for Technical Education (ISTE) – MBU & SVEC**  
-_Web Team Lead_ | May 2024 – Present  
-- Developed & deployed [ISTE website](https://istembu.in), boosting user engagement by 50%  
-- Collaborated with faculty and peers; recognized for impactful contributions  
-- Promoted and organized 25+ events across technical and non-technical domains
+**Indian Society for Technical Education MBU & SVEC, Palamaner, India**  
+*Web Team Lead | May 2024 – Present*  
+- Designed, developed, and deployed [istembu.in](https://istembu.in), boosting online visibility and user engagement by 50%.  
+- Led team collaborations with faculty, seniors, and other teams to ensure timely project delivery.  
+- Promoted and organized 25+ technical and non-technical events, increasing student participation by 30%.  
 
-**The Coding Club MBU**  
-_Web Team Lead_ | Sep 2024 – Present  
-- Leading development of a dynamic club website with statistics, chatbot, blogs  
-- Mentored 100+ students in Web Development, Java, DSA, and Git  
-- Organized hackathons and coding contests for 500+ students
-
----
-
-## 🚀 Projects
-
-### 🌐 [ISTE MBU & SVEC Official Website](https://istembu.in)  
-_Full-stack website for club activities and ECSTASY 2k25 registrations (2000+ users)_  
-- Features: Event registration, team showcase, gallery, admin portal with authentication  
-- **Stack:** HTML, CSS, JavaScript, Node.js, Express.js, MongoDB (Hostinger)
-
-### 🌐 [Coding Club MBU Website](https://codingclubmbu.onrender.com/) *(Ongoing)*  
-- Features: Interactive teams page, event updates, chatbot, blog section, and resources  
-- **Stack:** HTML, CSS, JavaScript, Bootstrap, Node.js, Express.js, MongoDB (Render)
-
-### 📊 [AI Business Insights Hub](https://garuda-sastra.netlify.app/)  
-_AI-powered dashboard for financial insights, cost optimization, and predictions_  
-- Built for Daksh 2025 AIVOLUTION Hackathon (Funded ₹6000)  
-- **Stack:** React.js, Next.js, Vite, Tailwind CSS, MongoDB, Python (ML)
-
-### 🏡 [Explore and Stay](https://explore-and-stay.onrender.com/listings/)  
-_Travel accommodation discovery platform using Mappls API_  
-- Features: MVC architecture, filters, authentication, error handling  
-- **Stack:** Full-stack web app with Node, Express, MongoDB, responsive design
+**The Coding Club MBU, Tirupati, India**  
+*Web Team Lead | Sep 2024 – Present*  
+- Developing official club website with dynamic pages, dashboards, and analytics.  
+- Mentored 500+ students in Web, Java, DSA, MySQL, and Git, improving coding skills.  
+- Organized workshops, hackathons, and contests for 1000+ students, strengthening campus tech ecosystem.  
 
 ---
 
-## 🏅 Achievements
+## PROJECTS
 
-- 🥉 **3rd Prize** – National AI Autonomous Hackathon 2025 (VR Siddhartha College)  
-- 🏁 **Finalist** – SASTRA Daksh 2025 Hackathon  
-- 🏆 **Top 5%** – Programming in Java (NPTEL, Silver Elite)  
-- ✅ Solved **150+ DSA problems** on LeetCode  
-- ⭐ **5-Star Java** – HackerRank  
-- 💻 Certified **Full Stack MERN Developer** – Apna College  
-- 📘 Completed **Data Structures & Algorithms in Java** – NPTEL  
-- 🧠 **Pearson MePro Level 10 Expert** in English  
-- 🪔 **Hindi Vidwan Certification**  
-- 📊 **CET Ranks:** AP – 5270 | TS – 3359 | KA – 8905
+**Official Website for ISTE MBU & SVEC | Oct 2024**  
+- Developed and deployed a full-stack website driving over 2,000+ registrations for ISTE fest ECSTASY 2k25.  
+- Built responsive event registration pages, galleries, About us section, and admin portal with authentication, increasing participation by 30%.  
+- **Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, CI/CD on Hostinger.  
+
+**Official Website for The Coding Club MBU | July 2025**  
+- Built interactive website featuring events, teams, gallery enhancing user experience.  
+- Integrated curated learning resources like YouTube & online platforms to enhance student skill development.  
+- **Tech Stack:** HTML, CSS, JavaScript, Bootstrap, Node.js, Express.js, MongoDB, hosted on Render.  
+
+**AI Business Insights Hub | Mar 2025**  
+- Built an AI-driven business intelligence platform for real-time financial insights, predictive analytics, and cost optimization at SASTRA Daksh 2025 AIVOLUTION Hackathon (Rs 6,000 funding).  
+
+**Explore and Stay Travel Accommodation Platform | Sep 2024**  
+- Developed full-stack platform for discovering villas and rooms using Mappls API, enhancing travel planning.  
+- Implemented authentication, authorization, MVC architecture, error handling, filters, and responsive design.  
+- **Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, Mappls API.  
 
 ---
 
-## 📌 Leadership & Roles
+## ACHIEVEMENTS & CERTIFICATIONS
+- **3rd Prize – National AI Hackathon 2025** (V R Siddartha College)  
+- **Finalist – SASTRA Daksh Hackathon 2025**  
+- Solved **490+ DSA problems** on LeetCode  
+- Top 5% (Silver Elite) – NPTEL Programming in Java  
+- NPTEL Certified – Data Structures & Algorithms in Java  
+- Certified MERN Developer – Apna College  
+- Achieved **5 star in Java** and **4 star in SQL** – HackerRank  
+- Coordinator – Google Developer Student Club (GDSC), MBU  
 
-- 📣 **Coordinator** – Google Developer Student Club, MBU  
-- 🎯 **Discipline Committee Organizer** – Mohan Mantra 2k23 (National Techno-Cultural Fest)
-
----
-
-_Thanks for visiting! I'm always eager to collaborate on impactful projects or explore new tech ideas. Feel free to check out my work or connect on LinkedIn._
